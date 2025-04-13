@@ -1,17 +1,9 @@
 # Shams Emam
 
-🎓 Computer Science Student | 💻 Passionate about Problem Solving | 🚀 Preparing for ECPC
-
----
+🎓 Computer Science Student |  Competitive Programmer | BackEnd Developer
 
 ### 📬 Contact Me:
 - **Email:** [shamshimada@gmail.com](mailto:shamshimada@gmail.com)
 - **LinkedIn:** [Shams Emam](https://www.linkedin.com/in/Shams%20Emam)
 - **Codeforces:** [shamsEmam](https://codeforces.com/profile/shamsEmam)
 
----
-
-### 🔧 Currently Working On:
-- Solving algorithmic problems using C++
-- Training for ECPC (Egyptian Collegiate Programming Contest)
-- Learning Backend Development with C# and .NET
