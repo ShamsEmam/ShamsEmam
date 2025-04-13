@@ -1,16 +1,17 @@
-## Hi there 👋
+# Shams Emam
 
-<!--
-**ShamsEmam/ShamsEmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Passionate about Problem Solving | 🚀 Preparing for ECPC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contact Me:
+- **Email:** [shamshimada@gmail.com](mailto:shamshimada@gmail.com)
+- **LinkedIn:** [Shams Emam](https://www.linkedin.com/in/Shams%20Emam)
+- **Codeforces:** [shamsEmam](https://codeforces.com/profile/shamsEmam)
+
+---
+
+### 🔧 Currently Working On:
+- Solving algorithmic problems using C++
+- Training for ECPC (Egyptian Collegiate Programming Contest)
+- Learning Backend Development with C# and .NET
