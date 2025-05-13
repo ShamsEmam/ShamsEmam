@@ -7,8 +7,3 @@
 - **LinkedIn:** [Shams Emam](https://www.linkedin.com/in/shams-emam-755194256/)
 - **Codeforces:** [shamsEmam](https://codeforces.com/profile/shamsEmam)
 - **Email:** [shamshimada@gmail.com](mailto:shamshimada@gmail.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsEmam&layout=compact&langs_count=6&exclude_repo=Algorithem)
-
-
-![ShamsEmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsEmam&show_icons=true&theme=radical)
