@@ -10,3 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsEmam&layout=compact&langs_count=6)
 
+![ShamsEmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsEmam&show_icons=true&theme=radical)
