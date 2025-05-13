@@ -8,6 +8,6 @@
 - **Codeforces:** [shamsEmam](https://codeforces.com/profile/shamsEmam)
 - **Email:** [shamshimada@gmail.com](mailto:shamshimada@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsEmam&layout=compact&exclude_repo=Algorithem&langs_count=6)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsEmam&layout=compact&exclude_repo=Algorithem&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs?username=ShamsEmam&show_icons=true&locale=en&layout=compact))
 
 ![ShamsEmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsEmam&show_icons=true&theme=radical)
