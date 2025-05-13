@@ -8,4 +8,5 @@
 - **Codeforces:** [shamsEmam](https://codeforces.com/profile/shamsEmam)
 - **Email:** [shamshimada@gmail.com](mailto:shamshimada@gmail.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsEmam&layout=compact&langs_count=6)
 
